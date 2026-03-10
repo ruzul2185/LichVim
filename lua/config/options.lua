@@ -30,7 +30,7 @@ vim.opt.termguicolors = true
 vim.opt.cursorline = true
 vim.opt.signcolumn = "yes"
 vim.opt.wrap = false
-vim.opt.colorcolumn = "100"
+--vim.opt.colorcolumn = "100"
 
 vim.opt.scrolloff = 8
 vim.opt.sidescrolloff = 8
