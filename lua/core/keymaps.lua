@@ -55,3 +55,5 @@ map('n', '<S-l>', ':bnext<CR>', { desc = "Next buffer" })
 map('n', '<S-h>', ':bprevious<CR>', { desc = "Previous buffer" })
 map('n', '<Leader>bd', ':bdelete<CR>', { desc = "Close buffer" })
 
+-- File explorer
+map('n', '<Leader>e', ':Ex<CR>', { desc = "Open explorer" })
