@@ -3,9 +3,6 @@
 -- ABOUT : sets some quality-of-life keymaps
 -- ====================================================================
 
--- Set space as leader
-vim.g.mapleader = " "
-vim.g.maplocalleader = " "
 
 local map = vim.keymap.set
 

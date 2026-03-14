@@ -9,7 +9,7 @@ return {
     priority = 1000,
     opts = {
         options = {
-            transparent = false,     -- set true if you want transparent background
+            transparent = true,     -- set true if you want transparent background
             terminal_colors = true,  -- apply theme to Neovim terminal
             dim_inactive = true,     -- dim inactive windows
             styles = {
